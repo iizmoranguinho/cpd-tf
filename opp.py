@@ -312,3 +312,4 @@ class MovieApp(ttk.Window):
 if __name__ == "__main__":
     app = MovieApp()
     app.mainloop() # Mantem a janela aberta, esperando por acoes do usuario.
+# O tafa é foda
